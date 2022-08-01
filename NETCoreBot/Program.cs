@@ -12,7 +12,7 @@ using Domain.Models;
 
 namespace NETCoreBot
 {
-    public class Program
+    public class Program//comment
     {
         public static IConfigurationRoot Configuration;
 
